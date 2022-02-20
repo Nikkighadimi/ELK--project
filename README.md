@@ -102,7 +102,7 @@ SSH into the control node and follow the steps below:
 - Run the playbook and navigate to the Elk VM to check that the installation worked as expected.
 
 - the name of the play book is install-Elk.yml and you copy it on an /etc/ansible/
-- _The host file is the file you update to tell the play books which machines to install the containers on.
-- _ The Url that you go to in order to check Kibana is running is HTTP://YOUR.VM.PUBLIC.IP:5601/APP/Kibana 
+- The host file is the file you update to tell the play books which machines to install the containers on.
+- The Url that you go to in order to check Kibana is running is HTTP://YOUR.VM.PUBLIC.IP:5601/APP/Kibana 
 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
